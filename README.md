@@ -1,5 +1,13 @@
 # API para a seleção de na empresa Tax
 
+API integrada com banco de dados SQLite3 , para registro e leitura de usuarios.<br>
+Cada  Usuário deve possuir os campos:
+<ul>
+  <li>name</li>
+  <li>email</li>
+  <li>whatsapp</li>
+</ul>
+
 ## Instalando dependencias
 Tendo Node instalado, execute:
 ```
