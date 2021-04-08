@@ -31,3 +31,4 @@ http://localhost:3000/taxusers/:id
  -Knex , para gestao de banco de dados SQLite 3
 
 ###### API rodando em localhost:3000
+-Ja instalei a dependencia do cors caso queira testa uma requisicao a api por meio do axios
