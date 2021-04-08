@@ -8,17 +8,21 @@ Cada  Usuário deve possuir os campos:
   <li>whatsapp</li>
 </ul>
 
+## Feature
+
+Separei em duas pastas: <i>tax-web</i> e <i>server</i>.
+Execute primeiro o servidor e depois a aplicação.
+<ul>
+  <li>servidor: localhost:3600</li>
+  <li>aplicacao: localhost:3000</li>
+</ul>
+
 ## Instalando dependencias
-Tendo Node instalado, execute:
+Tendo Node instalado, instale as dependencias na pasta tax-web e na pasta server
 ```
 yarn install
 ```
-Após baixar as dependencias do projeto, execute:
-```
-yarn start
-```
-
-Voce pode executar primeiro o servidor , na pasta e execute
+Voce deve executar primeiro o servidor , na pasta Server , execute
 ```
 yarn start
 ```
