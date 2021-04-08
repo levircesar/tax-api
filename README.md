@@ -1,7 +1,7 @@
 # API para a seleção de na empresa Tax
 
 ## Instalando dependencias
-Execute tendo o Node instalado, execute:
+Tendo Node instalado, execute:
 ```
 yarn install
 ```
